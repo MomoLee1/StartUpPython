@@ -1,5 +1,5 @@
 #user enters integer and divisor
-integer = input ("Input an integer")
-divisor = input ("Input a divisor")
+number = int(input ("Input an integer"))
+divisor = int(input ("Input a divisor"))
 #output whole integer division and remainder
-print (integer//divisor, " remainder", integer%divisor)
+print (number // divisor, " remainder", number % divisor)
