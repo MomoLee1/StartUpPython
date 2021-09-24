@@ -7,3 +7,4 @@ reverseofword = word[stringlength::-1]
 #output reverse of string
 print(reverseofword)
 
+# ACS _ good work although it is difficylt to see your algorithm as you use an inbuilt function :-)

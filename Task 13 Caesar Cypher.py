@@ -14,3 +14,6 @@ for ch in sentence:
 #end for
 #output ciphered message
 print(cipheredmessage.lower())
+
+
+# ACS - Good work like the option to choose the shift! Although ZZZZ give ^^^^
